@@ -2,7 +2,7 @@
 
 ![Tenacity Learn Logo](https://tenacity.social/img/Tenacity%20Logo%20White%20Transparent.png)
 
-Welcome to the AI Code Suggestions repository for Tenacity Learn! This open-source project is an integral part of the Tenacity Learn website and app, designed to provide a personalized learning experience for coding enthusiasts. In this README, you'll find detailed information about the project, how it works, and how you can contribute to this exciting venture.
+This open-source project is an integral part of the Tenacity Learn website and app, designed to provide a personalized learning experience for coding enthusiasts. In this README, you'll find detailed information about the project, how it works, and how you can contribute to this exciting venture.
 
 ## Table of Contents
 
